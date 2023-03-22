@@ -13,7 +13,7 @@ body {
     font-family: sans-serif;
 }
 
-a {
+.btn-1 {
     display: block;
     background: #00A9D4;
     color: #fff;
@@ -26,7 +26,7 @@ a {
     font-size: 20px;
 }
 
-a:hover {
+.btn-1:hover {
     background: #00729D;
 }
 
